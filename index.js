@@ -50,3 +50,4 @@ async function checkInstagram() {
 }
 
 client.login(DISCORD_TOKEN);
+
